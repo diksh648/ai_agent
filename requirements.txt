@@ -5,5 +5,5 @@ langchain-community
 langchain-groq
 groq
 python-dotenv
-pywhatkit
+
 twilio
