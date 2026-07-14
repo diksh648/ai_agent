@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-import pywhatkit
+
 
 from twilio.rest import Client
 
